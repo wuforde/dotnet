@@ -36,3 +36,4 @@
 /Users/wuforde/Documents/git/dotnet/file/fileToDatabase/obj/Debug/net8.0/fileToDatabase.pdb
 /Users/wuforde/Documents/git/dotnet/file/fileToDatabase/obj/Debug/net8.0/fileToDatabase.genruntimeconfig.cache
 /Users/wuforde/Documents/git/dotnet/file/fileToDatabase/obj/Debug/net8.0/ref/fileToDatabase.dll
+/Users/wuforde/Documents/git/dotnet/file/fileToDatabase/obj/Debug/net8.0/fileToDatabase.sourcelink.json

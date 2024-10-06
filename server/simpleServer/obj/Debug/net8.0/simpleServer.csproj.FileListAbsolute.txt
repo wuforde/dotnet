@@ -1,0 +1,15 @@
+/Users/wuforde/Documents/git/dotnet/server/simpleServer/obj/Debug/net8.0/simpleServer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wuforde/Documents/git/dotnet/server/simpleServer/obj/Debug/net8.0/simpleServer.AssemblyInfoInputs.cache
+/Users/wuforde/Documents/git/dotnet/server/simpleServer/obj/Debug/net8.0/simpleServer.AssemblyInfo.cs
+/Users/wuforde/Documents/git/dotnet/server/simpleServer/obj/Debug/net8.0/simpleServer.csproj.CoreCompileInputs.cache
+/Users/wuforde/Documents/git/dotnet/server/simpleServer/obj/Debug/net8.0/simpleServer.sourcelink.json
+/Users/wuforde/Documents/git/dotnet/server/simpleServer/bin/Debug/net8.0/simpleServer
+/Users/wuforde/Documents/git/dotnet/server/simpleServer/bin/Debug/net8.0/simpleServer.deps.json
+/Users/wuforde/Documents/git/dotnet/server/simpleServer/bin/Debug/net8.0/simpleServer.runtimeconfig.json
+/Users/wuforde/Documents/git/dotnet/server/simpleServer/bin/Debug/net8.0/simpleServer.dll
+/Users/wuforde/Documents/git/dotnet/server/simpleServer/bin/Debug/net8.0/simpleServer.pdb
+/Users/wuforde/Documents/git/dotnet/server/simpleServer/obj/Debug/net8.0/simpleServer.dll
+/Users/wuforde/Documents/git/dotnet/server/simpleServer/obj/Debug/net8.0/refint/simpleServer.dll
+/Users/wuforde/Documents/git/dotnet/server/simpleServer/obj/Debug/net8.0/simpleServer.pdb
+/Users/wuforde/Documents/git/dotnet/server/simpleServer/obj/Debug/net8.0/simpleServer.genruntimeconfig.cache
+/Users/wuforde/Documents/git/dotnet/server/simpleServer/obj/Debug/net8.0/ref/simpleServer.dll
